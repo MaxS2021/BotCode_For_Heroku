@@ -3,7 +3,7 @@ from telegram.ext import CommandHandler
 
 from wiki import search_wiki
 
-TOKEN = "5790031662:AAFc0BvsrQDTBGXwURLwMpg9VrP9ZT6LFQs"
+TOKEN = ""
 
 
 def echo(update, context):
